@@ -1,2 +1,2 @@
-# Lego-Vernie-pybricks
+# Lego Vernie pybricks
 Pybricks code to remote control Vernie from Lego
