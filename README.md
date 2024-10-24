@@ -13,7 +13,7 @@ This is a Pybricks program to load directly into the lego move hub in order to r
 - Shows battery status: Before shothing down the led move hub led will blink green to indicate the level o battery left:
 7 times = 7000 (full battery)
 6 times = 6000 (still ok)
-and so on...
+...
 3 times = 3000 (low battery, needs charge)
 
 ## Built With
