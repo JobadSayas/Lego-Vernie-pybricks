@@ -1,5 +1,6 @@
 # Lego Vernie remote
 
+## Description
 This is a Pybricks program to load directly into the lego move hub in order to remote control Vernie from Lego. The program allows you to perform different actions from the remote.
 
 <center><img src="read-me-image.jpg" width="300"></center>
